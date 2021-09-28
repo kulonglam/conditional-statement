@@ -1,0 +1,35 @@
+
+  public class Boolean {
+  
+    public static void main(String[] args) {
+    
+          boolean passedDoor = true;
+          boolean passedDoor = false;
+          boolean passedDoor = false;
+          int doorCount = 0;
+        
+          if(missedDoor) {
+              System.out.printIn("we passed the first door!");
+                doorCount = doorCount +1;
+                }
+                
+                if(passedDoor) {
+                  System.out.printIn("we passed the first door!");
+                     doorCount = doorCount +1;
+                       }
+                       
+                       if(passedDoor) {
+                  System.out.printIn("we passed the first door!");
+                     doorCount = doorCount +1;
+                       }
+                       
+                       if(doorCount ==3) {
+                          passedAllDoors = true;
+                          }
+                          
+                          if(passedAllDoors) {
+                             System.out.printIn("Congratulations you won program!");
+                             }
+                             
+                             }
+                             }
